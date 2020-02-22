@@ -1,6 +1,8 @@
 .DS_Store
 R/
 
+app/release/
+
 # Built application files
 *.apk
 *.ap_
