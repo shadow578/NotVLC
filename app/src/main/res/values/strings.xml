@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">NoImNotInstallingVLC</string>
+    <string name="app_name">NotVLC</string>
+    <string name="err_redirect_fail">Could not redirect Intent! Do you have a video player installed?</string>
 </resources>
