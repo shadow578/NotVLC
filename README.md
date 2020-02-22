@@ -1,5 +1,5 @@
-# No, I'm not installing VLC
-No, I'm not installing VLC is a simple (yet effective) App that catches all ACTION_VIEW intents for the VLC Video player and redirects them to the default video player app (or shows a selection dialog if no default is set).<br/>
+# NotVLC
+NotVLC is a simple (yet effective) App that catches all ACTION_VIEW intents for the VLC Video player and redirects them to the default video player app (or shows a selection dialog if no default is set).<br/>
 This allows you to use any video player on apps that force you to use VLC (or annoy you until you install VLC).
 
 ## Why?
