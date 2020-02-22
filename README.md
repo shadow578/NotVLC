@@ -2,6 +2,8 @@
 NotVLC is a simple (yet effective) App that catches all ACTION_VIEW intents for the VLC Video player and redirects them to the default video player app (or shows a selection dialog if no default is set).<br/>
 This allows you to use any video player on apps that force you to use VLC (or annoy you until you install VLC).
 
+[Download NotVLC](https://github.com/shadow578/NotVLC/releases)
+
 ## Why?
 Because some apps (_&ast;cough&ast; &ast;cough&ast; [AnYme](https://github.com/zunjae/AnYme)_) will annoy you forever until you finally give in and install VLC over any other video player...<br/>
 Like, I know that some streams __may__ not work in my video player and VLC would probably play them just fine, but can't you just allow me to disable that warning and live a dangerous live of not knowing that the stream will play??
